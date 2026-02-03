@@ -38,8 +38,8 @@ This project is designed as a portfolio-grade data analytics case study, demonst
 -Interactive slicers for dynamic exploration.  
 
 ## 🚀 How to Run the Project  
-### Clone the repository  
-git clone https://github.com/yourusername/Nepal_Aviation_Infrastructure.git  
+### Clone the repository 
+git clone https://github.com/beebas36/Nepal-Aviation-Infrastructure  
 
 ### Navigate to project folder  
 cd Nepal_Aviation_Infrastructure  
