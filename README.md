@@ -85,3 +85,5 @@ This project is created for learning and portfolio purposes, using publicly avai
 **Bibas Basnet**  
 **BCA Graduate | Data Analytics Enthusiast**  
 **Skilled in Python, SQL, Power BI, Tableau, and Geospatial Analysis**  
+### 🔗 [LinkedIn Profile](https://www.linkedin.com/in/bibas-basnet-data-analyst)  
+### 📧 [Email](mailto:bibasbasnet33@gmail.com)
