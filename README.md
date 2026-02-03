@@ -6,39 +6,39 @@ The Nepal Aviation Infrastructure Dashboard & Analysis project focuses on explor
 This project is designed as a portfolio-grade data analytics case study, demonstrating how raw aviation data can be transformed into actionable intelligence using Python, Power BI/Streamlit, and geospatial tools.  
 
 ## 🎯 Objectives  
--Analyze the distribution of airports and heliports across Nepal.  
--Perform data cleaning and preprocessing on aviation datasets.  
--Create segmentation features such as heliport flags and traffic categories.  
--Build interactive dashboards for exploration and decision-making.  
--Visualize aviation infrastructure using maps and charts.  
--Apply forecasting techniques to understand future aviation trends.  
+- Analyze the distribution of airports and heliports across Nepal.  
+- Perform data cleaning and preprocessing on aviation datasets.  
+- Create segmentation features such as heliport flags and traffic categories.  
+- Build interactive dashboards for exploration and decision-making.  
+- Visualize aviation infrastructure using maps and charts.  
+- Apply forecasting techniques to understand future aviation trends.  
 
 ## 🛠 Tools & Technologies  
--Python (Pandas, NumPy, Prophet, Folium)  
--Power BI / Streamlit for dashboards  
--SQL for querying (if applicable)  
--Plotly & Matplotlib for visualization  
--Geospatial Mapping (Folium)  
--GitHub for version control  
+- Python (Pandas, NumPy, Prophet, Folium)  
+- Power BI / Streamlit for dashboards  
+- SQL for querying (if applicable)  
+- Plotly & Matplotlib for visualization  
+- Geospatial Mapping (Folium)  
+- GitHub for version control  
 
 ## 📊 Key Features  
--KPI metrics for total airports, heliports, and passenger volume.  
--Heliport segmentation using flag-based classification.  
--Geospatial mapping of aviation facilities across Nepal.  
--Traffic category analysis (Low / Medium / High).  
--Interactive filters by region and facility type.  
--Forecasting of aviation trends using time series modelling.  
+- KPI metrics for total airports, heliports, and passenger volume.  
+- Heliport segmentation using flag-based classification.  
+- Geospatial mapping of aviation facilities across Nepal.  
+- Traffic category analysis (Low / Medium / High).  
+- Interactive filters by region and facility type.  
+- Forecasting of aviation trends using time series modelling.  
 
 ## 🗺 Dashboard Components  
--Map visualization of airports and heliports.  
--KPI cards for quick insights.  
--Bar charts for region-wise distribution.  
--Pie charts for facility type segmentation.  
--Passenger traffic analysis visuals.  
--Interactive slicers for dynamic exploration.  
+- Map visualization of airports and heliports.  
+- KPI cards for quick insights.  
+- Bar charts for region-wise distribution.  
+- Pie charts for facility type segmentation.  
+- Passenger traffic analysis visuals.  
+- Interactive slicers for dynamic exploration.  
 
 ## 🚀 How to Run the Project  
-### Clone the repository 
+### Clone the repository : 
 git clone https://github.com/beebas36/Nepal-Aviation-Infrastructure  
 
 ### Navigate to project folder  
@@ -72,11 +72,11 @@ Nepal_Aviation_Infrastructure/
 └── README.md  
 
 ## 📈 Use Cases  
--Aviation infrastructure planning  
--Tourism and regional connectivity analysis  
--Emergency and rescue operation planning  
--Data analytics portfolio demonstration  
--Geospatial visualization practice  
+- Aviation infrastructure planning  
+- Tourism and regional connectivity analysis  
+- Emergency and rescue operation planning  
+- Data analytics portfolio demonstration  
+- Geospatial visualization practice  
  
 ## ⭐ Acknowledgment
 This project is created for learning and portfolio purposes, using publicly available aviation data to explore Nepal’s infrastructure landscape. 
